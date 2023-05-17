@@ -1,0 +1,5 @@
+{
+    "key": "ctrl+shift+e",
+    "command": "codexplain.extractCode",
+    "when": "editorTextFocus"
+  }

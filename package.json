@@ -9,12 +9,12 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": ["*"],
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "codexplain.helloWorld",
-      "title": "Hello World"
+      "command": "codexplain.extractCode",
+      "title": "Extract Code"
     }]
   },
   "scripts": {
